@@ -11,13 +11,23 @@
 ## 自己的技术博客
 ## Android
 ### App 功能开发
-[掌握 ANDROID VIEWMODEL：基本注意事项第 1 部分-避免在 init {} 块中初始化状态](https://www.droidcon.com/2024/03/22/mastering-android-viewmodels-essential-dos-and-donts-part-1-%f0%9f%9b%a0%ef%b8%8f/)
+
 #### 官方发布或建议说明
 #### 专家大神指导建议
+[掌握 ANDROID VIEWMODEL：基本注意事项第 1 部分-避免在 init {} 块中初始化状态](https://www.droidcon.com/2024/03/22/mastering-android-viewmodels-essential-dos-and-donts-part-1-%f0%9f%9b%a0%ef%b8%8f/)  
+[JETPACK COMPOSE 中的 LOOKAHEAD 动画](https://www.droidcon.com/2024/03/19/animations-with-lookahead-in-jetpack-compose/)  
+[HILT、VIEWMODELS 和辅助注入](https://www.droidcon.com/2024/03/14/hilt-viewmodels-assisted-injection/)
 #### 国内大佬踩坑
+#### 有意思的小Demo
+[使用 JETPACK COMPOSE 绘制足球场](https://www.droidcon.com/2024/03/21/drawing-a-football-ground-with-jetpack-compose/)  
+[如何使用 JETPACK COMPOSE 创建类似 GLOVO 的主屏幕动画（第 2 部分）](https://www.droidcon.com/2024/03/19/how-to-create-glovo-like-main-screen-animation-using-jetpack-compose-part-2/)  
+
 ### App 构建
+[如何在 MAVEN CENTRAL 上发布您自己的 KOTLIN 多平台库的 BOM（物料清单）](https://www.droidcon.com/2024/03/14/how-to-publish-your-own-bom-bill-of-materials-for-kotlin-multiplatform-libraries-on-maven-central/)  
+
 ## 开发语言 
 ### Kotlin
+[使用 KOTLIN 协程互斥体保护共享资源](https://www.droidcon.com/2024/03/14/safeguarding-shared-resources-with-kotlin-coroutines-mutex/)
 ### Java
 ##  Others
 ### Flutter
