@@ -11,6 +11,7 @@
 ## 自己的技术博客
 ## Android
 ### App 功能开发
+[掌握 ANDROID VIEWMODEL：基本注意事项第 1 部分-避免在 init {} 块中初始化状态](https://www.droidcon.com/2024/03/22/mastering-android-viewmodels-essential-dos-and-donts-part-1-%f0%9f%9b%a0%ef%b8%8f/)
 #### 官方发布或建议说明
 #### 专家大神指导建议
 #### 国内大佬踩坑
